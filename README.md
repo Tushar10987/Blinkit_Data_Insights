@@ -58,34 +58,3 @@ Experience publishing interactive analysis reports
 
 
 
----
-
-
-🔮 Future Enhancements
-
-Add ML-based demand prediction
-
-Integrate live data scraping
-
-Create dashboards with Plotly or Tableau
-
-
-
----
-
-👩‍💻 About the Author
-
-Bishakha Kapoor
-🎓 Commerce Student | 📊 Aspiring Data Analyst | 🎯 Curious Learner
-
-Coming from a non-tech background, I transitioned into data analytics by combining my business acumen with technical skills. This project is a reflection of my passion for turning raw data into actionable insights. I enjoy analyzing real-world problems, visualizing patterns, and crafting stories that numbers tell.
-
-🔗 Let's Connect
-
-📍 Location: Bihar, India
-
-🌐 LinkedIn
-
-📧 bishakhakapur7@gmail.com
-
-🧠 Learning: SQL, Python, Power BI, Excel
